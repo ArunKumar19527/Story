@@ -1,1 +1,1 @@
-This is a alien-branch chapter1.txt
+This is a master branch version of the chapter1.txt
